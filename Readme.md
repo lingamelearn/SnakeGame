@@ -1,1 +1,1 @@
-ECHO is on.
+# Simple SnakeGame in C
